@@ -239,7 +239,8 @@ https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2741.htm
 
 ## Excelファイル
 
-`退職金_確定拠出年金_重複調整シミュレーション.xlsx`
+[GitHub：最新版Excelはこちら](https://github.com/pukkunk/retirement-income-tax-dc-excel/blob/main/%E9%80%80%E8%81%B7%E9%87%91_%E7%A2%BA%E5%AE%9A%E6%8B%A0%E5%87%BA%E5%B9%B4%E9%87%91_%E9%87%8D%E8%A4%87%E8%AA%BF%E6%95%B4%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.xlsx)
+
 
 ---
 
